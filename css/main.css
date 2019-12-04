@@ -11,3 +11,23 @@ body {
     font-size: 20px;
 }
 
+/* video styling */
+iframe {
+    border: 5px solid white;
+}
+
+/* footer */
+ul.copyright {
+    padding: 10px;
+    list-style-type: none;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .copyright {
+    background-color: darkgray;
+    color: white;
+    height: 100px;
+  }
